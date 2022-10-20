@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Furkan Şenol</h1>
+### <h1>Hi there 👋</h1>
+
 
 
 - 🌱 I’m currently learning **Kotlin**
