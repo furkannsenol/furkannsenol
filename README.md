@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning *
 
 - 📫 How to reach me **frkn.snl@hotmail.com**
 
