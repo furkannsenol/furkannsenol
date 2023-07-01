@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning ReactNative & Node.js with WebAPI
+- 🌱 I’m currently learning ReactNative & Rest API with Node.js
 
 - 📫 How to reach me **frkn.snl@hotmail.com**
 
