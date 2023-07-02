@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkannsenol&label=Profile%20views&color=0e75b6&style=flat" alt="furkannsenol" /> </p>
-<br>
+
 ### <h1>Hi there 👋</h1>
 
 
